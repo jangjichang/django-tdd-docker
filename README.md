@@ -1,4 +1,4 @@
-# django-tdd-docker
+# Django-TDD-Docker
 
 [Test-Driven Development with Django, Django REST Framework, and Docker](https://testdriven.io/courses/tdd-django/)
 
@@ -33,7 +33,7 @@
 - git branch strategy
 
 ---
-## reference
+## Reference
 - [Test-Driven Development with Django, Django REST Framework, and Docker](https://testdriven.io/courses/tdd-django/)
 - [How to write a good readme file](https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/)
 - [commit convention](https://www.conventionalcommits.org/en/v1.0.0/)
