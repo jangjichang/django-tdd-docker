@@ -32,6 +32,32 @@
 ## TBD
 - git branch strategy
 
+## How to Run
+### Test
+```shell
+$ makefile test
+```
+
+### Server
+
+Build the image:
+```shell
+$ docker-compose build
+```
+
+Once the build is done, fire up the container in detached mode:
+```shell
+$ docker-compose up -d
+```
+
+Bring down the development containers
+```shell
+$ docker-compose down -v
+```
+
+## Pycharm IDE setting
+- `app` directory mark as Sources root
+
 ---
 ## Reference
 - [Test-Driven Development with Django, Django REST Framework, and Docker](https://testdriven.io/courses/tdd-django/)
